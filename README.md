@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mamdouh</h1>
-<h3 align="center">A Flutter Developer - Backend Side Developer - Competitive Programmer</h3>
+<h3 align="center">Flutter Developer - Backend Side Developer - Competitive Programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/_mohamed432_" target="blank"><img src="https://img.shields.io/twitter/follow/_mohamed432_?logo=twitter&style=for-the-badge" alt="_mohamed432_" /></a> </p>
 
