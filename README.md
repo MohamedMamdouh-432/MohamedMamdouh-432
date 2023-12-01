@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mohamed432_" target="blank"><img src="https://img.shields.io/twitter/follow/_mohamed432_?logo=twitter&style=for-the-badge" alt="_mohamed432_" /></a> </p>
 
-- 🌱 I’m currently learning **Backend with PHP-Laravel**
+- 🌱 I’m currently learning **Backend with Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedMamdouh-432?tab=repositories](https://github.com/MohamedMamdouh-432?tab=repositories)
 
